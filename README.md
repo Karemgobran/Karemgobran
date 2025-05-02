@@ -1,36 +1,72 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <h2>Welcome to <span style="color:#f75c7e">Karem Gobran</span>'s GitHub!</h2>
+  <p>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+Never+Stops+%F0%9F%92%A1;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
+    </a>
+  </p>
+</div>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center">
-  Welcome to Karem Gobran's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### 👨‍💻 About Me
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+- 🏢 I'm a Software Engineer and Front-End Developer
+- 💬 I love building modern UIs using React, Tailwind, and Material UI
+- 👨‍🎓 IT student always learning & exploring tech
+- ☕ Fun Fact: My perfect day starts and ends with a cup of coffee
+
+
+
+### 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://www.linkedin.com/in/karem-gobran-3436b824a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Karem_Gobran" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-34A8E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
-- 🏢 I'm a Software Engineer and Front End developer
-- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+---
 
+### 🚀 Tech Stack
 
+#### 🧠 Languages & Frameworks
 
-### Connect with Me :
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/-Material--UI-black?style=for-the-badge&logo=mui)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
-<a href="https://www.linkedin.com/in/karem-gobran-3436b824a/" target="_blank"><img src="https://img.shields.io/badge/-Karem%20Gobran-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Karem_Gobran" target="_blank"><img src="https://img.shields.io/badge/-Karem%20Gobran-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+#### ⚙️ Tools & Platforms
 
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agobrann&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agobrann&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 🧠 Quote of the Day
+
+> "First, solve the problem. Then, write the code."
